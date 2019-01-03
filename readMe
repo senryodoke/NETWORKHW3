@@ -1,0 +1,2 @@
+gcc pacp.c -o pcap -lpcap
+./pcap filename filter
